@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Philip J. Fry",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/1/11/Fry.jpg?width=960",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Turanga Leela",
+    "image": "https://ftks732kpvy18zwzc2s17egw-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/leela.jpeg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Bender Bending Rodriguez",
+    "image": "http://retailcloseoutmall.com/img/8fe8b3afdf3e7fe18430bdf724eb65ea.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Professor Hubert J. Farnsworth",
+    "image": "https://responsivedesign.is/wp-content/uploads/2016/11/Professor-Farnsworth_yuehfu.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Hermes Conrad",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/3/3f/Hermes.jpg?width=960",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Dr. Zoidberg",
+    "image": "https://i.redd.it/55wtmw9k3qux.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Amy Wong",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/d/d5/AmyWong.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Zapp Brannigan",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/6/66/Zapp.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Kif Kroker",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/e/e0/Kif.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Nibbler",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/4/40/Nibbler.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Mom",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/3/3d/Futurama_6ACV03_Evil_Mom.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Scruffy, the Janitor",
+    "image": "http://static.tumblr.com/788f2d64abf5e292d795ecf0a34fcb5e/bos9rhx/5PYmgwed3/tumblr_static_scruffy.jpg",
+    "count": 0
+  }
+]
